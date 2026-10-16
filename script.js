@@ -9,7 +9,7 @@ const CONFIG = {
   school: "Nueva Vizcaya State University",
   course: "Network Design Management",
   profilePicture: "me.jpg",   // e.g. "me.jpg" (put the file in this folder). Empty = placeholder avatar
-  biography: "Write a short description about yourself here. Edit this text in script.js.",
+  biography: "A Information Technology student at Nueva Vizcaya State University with an interest in technology and cybersecurity testing everything to its limit till unresponsive",
 
   education: [
     { level: "Elementary", school: "EM's Signal Village Elementary School" },
